@@ -1,2 +1,2 @@
-# Data-Engineering-Zoompcamp-Workshop-Docker
+# Data-Engineering-Zoompcamp-Docker
 Workshop Codespaces
